@@ -1,5 +1,5 @@
 deployment:
-  imageRepo: muralikrishnapydi/catalogue
+  imageRepo: muralikrishnapydi/catalogue:v1
   imageVersion: 1.0.0
 service:
   servicePort: 8080 # default value
