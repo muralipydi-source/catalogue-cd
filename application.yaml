@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default # The Argo CD Project this application belongs to
   source:
-    repoURL: https://github.com/muralipydi-source/eks-argocd-murali.git
+    repoURL: https://github.com/muralipydi-source/catalogue-cd.git
     targetRevision: main
     path: .
     helm:
